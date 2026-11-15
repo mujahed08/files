@@ -1,0 +1,9 @@
+important-websites
+
+1. https://commoncrawl.org/
+
+
+2. https://docs.parallel.ai/getting-started/overview
+
+
+3. https://www.scrapy.org/		[python]		[The world’s most-used open source data extraction framework]

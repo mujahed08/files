@@ -1,0 +1,19 @@
+1. Urls seeding:
+
+
+2. Fetching and Parsing:
+
+
+3. URL frontier:
+
+
+4. Indexing
+
+
+respect robots.txt
+
+
+control request frequecy with delays to avoid overloading the servers/websites.
+
+
+Web crawling is different from Web scraping.

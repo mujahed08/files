@@ -1,0 +1,7 @@
+Control plane
+
+1. User and Video meta data
+2. Upload Apis
+3. Storage Apis
+4. Content Delivery
+5. Home page and recommendation service

@@ -1,0 +1,28 @@
+
+
+System design engineering
+Design youtube
+
+Total user base aprox. 3 Billion
+
+Active users	
+
+		3 Billion = 3000 Million
+		100		---		10
+		3000 	---		?
+		
+		3000  X  10
+		-----------	=	300 Million			1 Million = 10 lakh		300 X 1000000 = 300000000 i.e 30 Crore
+			100
+			
+		Active users ~= 300 Million
+		
+		Creator ~= 
+		
+		300   X   10
+		------------	 =	30 Million		,	1 Million = 10 lakh	,	30 X 1000000 = 30000000 i.e 3 Crore
+			100
+			
+		Creator ~= 30 Million
+		
+		
